@@ -2,16 +2,12 @@
 > Love your terminal and make it yours
 
 ## Table of contents
-* [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
-
-## General info
-Add more general information about project. What the purpose of the project is? Motivation?
 
 ## Screenshots
 ![Example screenshot](./martiandegree-shell.png)
