@@ -22,7 +22,7 @@ Requirements before installing
 
 Installation is simple.
 1. Clone the repository
-2. execute install.sh
+2. Execute install.sh
 
 ## Status
 Project is: _in progress_
