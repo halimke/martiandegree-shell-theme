@@ -13,7 +13,7 @@
 ## General info
 Add more general information about project. What the purpose of the project is? Motivation?
 
-##Screenshots
+## Screenshots
 ![Example screenshot](./martiandegree-shell.png)
 
 ## Technologies
@@ -24,7 +24,7 @@ Requirements before installing
 1. zsh shell
 2. oh-my-zsh
 
-Installattion is simple.
+Installation is simple.
 1. Clone the repository
 2. execute install.sh
 
