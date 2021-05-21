@@ -19,6 +19,7 @@
 Requirements before installing
 1. zsh shell
 2. oh-my-zsh
+3. Jetbrains Mono powershell font
 
 Installation is simple.
 1. Clone the repository
