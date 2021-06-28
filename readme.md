@@ -34,4 +34,4 @@ Project is: _in progress_
 Project inspired by kali linux & based on frisk.zsh-theme
 
 ## Contact
-Created by [@halimke](https://t.me/halimke) - on Telegram.
+Created by [@halim_ke](https://twitter.com/halim_ke) - on Twitter.
