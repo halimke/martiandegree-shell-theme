@@ -10,7 +10,13 @@
 * [Contact](#contact)
 
 ## Screenshots
+<<<<<<< HEAD
 ![Example screenshot](./martiandegree-shell.png)
+=======
+![Example screenshot](./md_git_prompt.png)
+![Example screenshot](./md_venv_prompt.png)
+![Example screenshot](./md_anaconda_prompt.png)
+>>>>>>> test
 
 ## Technologies
 * zsh - version 5.8
@@ -19,6 +25,10 @@
 Requirements before installing
 1. zsh shell
 2. oh-my-zsh
+<<<<<<< HEAD
+=======
+3. Jetbrains Mono powershell font
+>>>>>>> test
 
 Installation is simple.
 1. Clone the repository
